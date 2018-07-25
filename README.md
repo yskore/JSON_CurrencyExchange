@@ -1,9 +1,10 @@
 # JSON_CurrencyExchange
-JSON Manipulation and Currency Exchange
 
-This module provides several string parsing functions to implement a 
-simple currency exchange routine using an online currency service. 
-The primary function in this module is exchange.
+## JSON Manipulation and Currency Exchange
+
+ **This module provides several string parsing functions to implement a 
+ simple currency exchange routine using an online currency service. 
+ The primary function in this module is exchange** 
 
 Consists of the Following Functions:
 
